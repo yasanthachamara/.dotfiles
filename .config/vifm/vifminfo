@@ -1,0 +1,1200 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/yasantha/
+	..
+1584690749
+'b
+	/home/yasantha/bin/
+	..
+1584690749
+'h
+	/home/yasantha/
+	..
+1584690749
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l12
+r12
+
+# Left window history (oldest to newest):
+d/home/yasantha/.vim
+	colors
+2
+d/home/yasantha/.vim/colors
+	..
+0
+d/home/yasantha/.vim
+	colors
+2
+d/home/yasantha
+	.vim
+33
+d/home/yasantha/.vim
+	autoload
+1
+d/home/yasantha/.vim/autoload
+	..
+0
+d/home/yasantha/.vim
+	plugged
+3
+d/home/yasantha/.vim/plugged
+	..
+0
+d/home/yasantha/.vim
+	colors
+2
+d/home/yasantha/.vim/colors
+	..
+0
+d/home/yasantha/.vim
+	colors
+2
+d/home/yasantha
+	.config
+5
+d/home/yasantha/.config
+	nvim
+33
+d/home/yasantha/.config/nvim
+	colors
+1
+d/home/yasantha/.config
+	nvim
+33
+d/home/yasantha
+	.local
+17
+d/home/yasantha/.local
+	share
+5
+d/home/yasantha/.local/share
+	nvim
+32
+d/home/yasantha/.local/share/nvim
+	colors
+1
+d/home/yasantha/.local/share
+	nvim
+32
+d/home/yasantha/.local/share/nvim
+	colors
+1
+d/home/yasantha/.local/share
+	nvim
+37
+d/home/yasantha/.local/share/nvim
+	colors
+1
+d/home/yasantha/.local/share/nvim/colors
+	onedark.vim
+1
+d/home/yasantha/.local/share/nvim
+	colors
+1
+d/home/yasantha/.local/share/nvim/colors
+	..
+0
+d/home/yasantha/.local/share/nvim
+	plugged
+2
+d/home/yasantha/.local/share/nvim/plugged
+	dracula
+2
+d/home/yasantha/.local/share/nvim/plugged/dracula
+	autoload
+4
+d/home/yasantha/.local/share/nvim/plugged
+	dracula
+2
+d/home/yasantha/.local/share/nvim
+	site
+4
+d/home/yasantha/.local/share/nvim/site
+	autoload
+1
+d/home/yasantha/.local/share/nvim/site/autoload
+	..
+0
+d/home/yasantha/.local/share/nvim/site
+	autoload
+1
+d/home/yasantha/.local/share/nvim/site/autoload
+	plug.vim
+1
+d/home/yasantha/.local/share/nvim/site
+	autoload
+1
+d/home/yasantha/.local/share/nvim
+	colors
+1
+d/home/yasantha/.local/share/nvim/colors
+	onedark.vim
+1
+d/home/yasantha/.local/share/nvim
+	plugged
+2
+d/home/yasantha/.local/share/nvim/plugged
+	dracula
+2
+d/home/yasantha/.local/share/nvim
+	site
+4
+d/home/yasantha/.local/share/nvim/site
+	autoload
+1
+d/home/yasantha/.local/share/nvim
+	site
+4
+d/home/yasantha/.local/share
+	nvim
+37
+d/home/yasantha/.local
+	share
+5
+d/home/yasantha
+	.local
+17
+d/home/yasantha/.local
+	share
+5
+d/home/yasantha/.local/share
+	nvim
+37
+d/home/yasantha/.local/share/nvim
+	colors
+1
+d/home/yasantha/.local/share/nvim/colors
+	onedark.vim
+1
+d/home/yasantha/.local/share/nvim
+	colors
+1
+d/home/yasantha/.local/share
+	nvim
+37
+d/home/yasantha/.local
+	share
+5
+d/home/yasantha
+	.config
+5
+d/home/yasantha/.config
+	nvim
+33
+d/home/yasantha/.config/nvim
+	colors
+1
+d/home/yasantha/.config/nvim/colors
+	onedark.vim
+1
+d/home/yasantha/.config/nvim
+	colors
+1
+d/home/yasantha/.config
+	nvim
+33
+d/home/yasantha
+	.vim
+33
+d/home/yasantha/.vim
+	colors
+2
+d/home/yasantha/.vim/colors
+	solarized.vim
+2
+d/home/yasantha/.vim
+	colors
+2
+d/home/yasantha
+	.config
+5
+d/home/yasantha/.config
+	nvim
+33
+d/home/yasantha/.config/nvim
+	colors
+1
+d/home/yasantha/.config/nvim/colors
+	solarized.vim
+2
+d/home/yasantha/.config/nvim
+	colors
+1
+d/home/yasantha/.config
+	pulse
+40
+d/home/yasantha
+	.config
+5
+d/home/yasantha/.config
+	nvim
+28
+d/home/yasantha/.config/nvim
+	colors
+1
+d/home/yasantha/.config/nvim/colors
+	solarized.vim
+1
+d/home/yasantha/.config/nvim
+	colors
+1
+d/home/yasantha/.config
+	neofetch
+27
+d/home/yasantha
+	.local
+17
+d/home/yasantha/.local
+	share
+5
+d/home/yasantha/.local/share
+	nvim
+37
+d/home/yasantha/.local/share/nvim
+	plugged
+1
+d/home/yasantha/.local/share/nvim/plugged
+	dracula
+2
+d/home/yasantha/.local/share/nvim
+	shada
+2
+d/home/yasantha/.local/share/nvim/shada
+	..
+0
+d/home/yasantha/.local/share/nvim
+	site
+3
+d/home/yasantha/.local/share/nvim/site
+	autoload
+1
+d/home/yasantha/.local/share/nvim
+	swap
+4
+d/home/yasantha/.local/share/nvim/swap
+	..
+0
+d/home/yasantha/.local/share/nvim
+	site
+3
+d/home/yasantha/.local/share/nvim/site
+	autoload
+1
+d/home/yasantha/.local/share/nvim/site/autoload
+	plug.vim
+1
+d/home/yasantha/.local/share/nvim/site
+	autoload
+1
+d/home/yasantha/.local/share/nvim
+	shada
+2
+d/home/yasantha/.local/share/nvim/shada
+	..
+0
+d/home/yasantha/.local/share/nvim
+	shada
+2
+d/home/yasantha/.local/share
+	nvim
+37
+d/home/yasantha/.local
+	share
+5
+d/home/yasantha
+	.config
+5
+d/home/yasantha/.config
+	alacritty
+1
+d/home/yasantha/.config/alacritty
+	alacritty.yml
+1
+d/home/yasantha/.config
+	alacritty
+1
+d/home/yasantha
+	Playlists
+10
+d
+
+# Right window history (oldest to newest):
+D/home/yasantha/Pictures
+	asooWZm.png
+2
+D/home/yasantha
+	Pictures
+17
+D/home
+	yasantha
+2
+D/home/yasantha
+	Downloads
+15
+D/home/yasantha/Downloads
+	Programs
+4
+D/home/yasantha/Downloads/Programs
+	..
+0
+D/home/yasantha/Downloads
+	Programs
+4
+D/home/yasantha
+	Downloads
+15
+D/home/yasantha/Downloads
+	Programs
+4
+D/home/yasantha
+	Pictures
+17
+D/home/yasantha/Pictures
+	asooWZm.png
+2
+D/home/yasantha
+	Music
+16
+D/home/yasantha/Music
+	..
+0
+D/home/yasantha
+	Pictures
+17
+D/home/yasantha/Pictures
+	asooWZm.png
+2
+D/home/yasantha
+	.vim
+4
+D/home/yasantha/.vim
+	autoload
+1
+D/home/yasantha
+	.oh-my-zsh
+9
+D/home/yasantha/.oh-my-zsh
+	README.md
+16
+D/home/yasantha
+	Pictures
+22
+D/home/yasantha/Pictures
+	asooWZm.png
+2
+D/home/yasantha
+	Pictures
+22
+D/home/yasantha/Pictures
+	ProfileImage.jpg
+1
+D/home/yasantha
+	Pictures
+22
+D/home/yasantha/Pictures
+	ProfileImage.jpg
+1
+D/home/yasantha
+	Pictures
+22
+D/home/yasantha/Pictures
+	ProfileImage.jpg
+1
+D/home/yasantha
+	.config
+5
+D/home/yasantha/.config
+	vifm
+35
+D/home/yasantha/.config/vifm
+	colors
+1
+D/home/yasantha/.config
+	vifm
+35
+D/home/yasantha
+	Downloads
+10
+D/home/yasantha/Downloads
+	Programs
+4
+D/home/yasantha
+	Documents
+9
+D/home/yasantha/Documents
+	complete-javascript-course-master
+2
+D/home/yasantha/Documents/complete-javascript-course-master
+	9-forkify
+8
+D/home/yasantha/Documents/complete-javascript-course-master/9-forkify
+	final
+2
+D/home/yasantha/Documents/complete-javascript-course-master
+	8-asynchronous-JS
+7
+D/home/yasantha/Documents
+	HTML & CSS
+1
+D/home/yasantha/Documents/HTML & CSS
+	omnifood
+3
+D/home/yasantha/Documents/HTML & CSS/omnifood
+	resources
+1
+D/home/yasantha/Documents/HTML & CSS/omnifood/resources
+	img
+3
+D/home/yasantha/Documents/HTML & CSS/omnifood/resources/img
+	app-iPhone.png
+9
+D/home/yasantha/Documents/HTML & CSS/omnifood/resources
+	data
+2
+D/home/yasantha/Documents/HTML & CSS/omnifood
+	resources
+1
+D/home/yasantha/Documents/HTML & CSS
+	omnifood
+3
+D/home/yasantha/Documents
+	HTML & CSS
+1
+D/home/yasantha
+	.config
+4
+D/home/yasantha/.config
+	i3
+19
+D/home/yasantha/.config/i3
+	config
+1
+D/home/yasantha/.config
+	i3
+19
+D/home/yasantha
+	.config
+4
+D/home
+	yasantha
+2
+D/
+	usr
+20
+D/usr
+	local
+6
+D/usr/local
+	bin
+1
+D/usr/local/bin
+	..
+0
+D/usr/local
+	bin
+1
+D/usr
+	bin
+1
+D/usr/bin
+	X11
+1
+D/usr/bin/X11
+	X11
+1
+D/usr/bin/X11/X11
+	X11
+1
+D/usr/bin/X11/X11/X11
+	..
+0
+D/usr/bin/X11/X11
+	X11
+1
+D/usr/bin/X11
+	2to3-2.7
+2
+D/usr/bin
+	st4topgm
+37
+D/usr
+	share
+8
+D/usr/share
+	bash-completion
+32
+D/usr
+	sbin
+7
+D/usr/sbin
+	..
+0
+D/usr
+	local
+6
+D/usr/local
+	bin
+1
+D/usr/local/bin
+	startplasma-x11-i3
+14
+D/usr/local
+	share
+8
+D/usr/local/share
+	xsessions
+9
+D/usr/local/share/xsessions
+	plasma-i3.desktop
+1
+D/usr/local/share
+	xsessions
+9
+D/usr/local
+	share
+8
+D/usr
+	local
+6
+D/
+	etc
+4
+D/etc
+	sddm.conf
+44
+D/
+	etc
+4
+D/etc
+	rpc
+42
+D/
+	usr
+20
+D/usr
+	local
+6
+D/usr/local
+	bin
+1
+D/usr/local/bin
+	startplasma-x11-i3
+14
+D/usr/local
+	bin
+1
+D/usr
+	bin
+1
+D/usr/bin
+	i3
+5
+D/usr
+	bin
+1
+D/
+	usr
+20
+D/usr
+	local
+6
+D/usr/local
+	bin
+1
+D/usr/local/bin
+	startplasma-x11-i3
+14
+D/usr/local
+	share
+8
+D/usr/local/share
+	xsessions
+9
+D/usr/local/share/xsessions
+	plasma-i3.desktop
+1
+D/usr/local/share
+	xsessions
+9
+D/usr/local/share/xsessions
+	plasma.desktop
+2
+D
+
+# Command line history (oldest to newest):
+:mkdir
+:mkdir polybar_custom
+:zm
+:mkdir ploy_theme
+:sort
+:mkdir .ncmpcpp
+::echo $TERM
+:messages
+:w
+:mkdir Nightmare Radio(2019)
+:mkdir Onward(2020)
+:help
+:mkdir colors
+:q
+
+# Search history (oldest to newest):
+/download
+/wallp
+/tr
+/icon
+/ne
+/bar
+/fonts
+/vif
+/plasma
+/sddm.conf
+/confi
+/vifm
+/downloads
+/down
+/code
+/script
+/zshrc
+/zshr
+/pic
+/.zshr
+/.config
+/poly
+/pict
+/i3
+/music
+/syste
+/icons
+/nm-applet
+/nm-
+/samsung
+/picture
+/sddm
+/konsole
+/picom
+/config
+
+# Prompt history (oldest to newest):
+pAddy
+ppoly_theme_8
+pconfig.bak
+pDocuments
+pNightmare Radio(2019)
+ponwrdd.wb72_300mbfilms.com.mkv
+pOnward 2020.srt
+pOnward 2020.mkv
+pbackground1.jpg
+pbackgroundOld.jpg
+pbackground.jpg
+pParasite(2019)
+pFrozen 2(2020)
+ppicom.conf
+ppicom.conf.old
+pVivarium.2019.720p.WEBRip.2CH.x265.HEVC-PSA.mk`v
+pVivarium.2019.720p.WEBRip.2CH.x265.HEVC-PSA.srt
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/yasantha/.local/share/vifm/Trash/000_colors
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/yasantha/.local/share/vifm/Trash/000_dotfiles-master
+	/home/yasantha/Downloads/Compressed/dotfiles-master
+t/home/yasantha/.local/share/vifm/Trash/000_dotfiles-master.zip
+	/home/yasantha/Downloads/Compressed/dotfiles-master.zip
+t/home/yasantha/.local/share/vifm/Trash/000_places
+	/home/yasantha/.local/share/icons/Addy/places/places
+t/home/yasantha/.local/share/vifm/Trash/000_i3-gaps-deb
+	/home/yasantha/i3-gaps-deb
+t/home/yasantha/.local/share/vifm/Trash/000_siji
+	/home/yasantha/siji
+t/home/yasantha/.local/share/vifm/Trash/000_addy-themes
+	/home/yasantha/addy-themes
+t/home/yasantha/.local/share/vifm/Trash/000_poly_theme_8
+	/home/yasantha/Downloads/Compressed/poly_theme_8
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn
+	/home/yasantha/.fonts/termsyn
+t/home/yasantha/.local/share/vifm/Trash/000_fonts.dir
+	/home/yasantha/.fonts/fonts.dir
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x11b.icons.pcf
+	/home/yasantha/.fonts/termsyn6x11b.icons.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x11b.pcf
+	/home/yasantha/.fonts/termsyn6x11b.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x11b.psfu
+	/home/yasantha/.fonts/termsyn6x11b.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x11b2.pcf
+	/home/yasantha/.fonts/termsyn6x11b2.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x11b2.psfu
+	/home/yasantha/.fonts/termsyn6x11b2.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x11r.icons.pcf
+	/home/yasantha/.fonts/termsyn6x11r.icons.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x11r.pcf
+	/home/yasantha/.fonts/termsyn6x11r.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x11r.psfu
+	/home/yasantha/.fonts/termsyn6x11r.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x11r2.pcf
+	/home/yasantha/.fonts/termsyn6x11r2.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x11r2.psfu
+	/home/yasantha/.fonts/termsyn6x11r2.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x13b.icons.pcf
+	/home/yasantha/.fonts/termsyn6x13b.icons.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x13b.pcf
+	/home/yasantha/.fonts/termsyn6x13b.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x13b.psfu
+	/home/yasantha/.fonts/termsyn6x13b.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x13b2.pcf
+	/home/yasantha/.fonts/termsyn6x13b2.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x13b2.psfu
+	/home/yasantha/.fonts/termsyn6x13b2.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x13r.icons.pcf
+	/home/yasantha/.fonts/termsyn6x13r.icons.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x13r.pcf
+	/home/yasantha/.fonts/termsyn6x13r.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x13r.psfu
+	/home/yasantha/.fonts/termsyn6x13r.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x13r2.pcf
+	/home/yasantha/.fonts/termsyn6x13r2.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn6x13r2.psfu
+	/home/yasantha/.fonts/termsyn6x13r2.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x12b.icons.pcf
+	/home/yasantha/.fonts/termsyn7x12b.icons.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x12b.pcf
+	/home/yasantha/.fonts/termsyn7x12b.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x12b.psfu
+	/home/yasantha/.fonts/termsyn7x12b.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x12b2.pcf
+	/home/yasantha/.fonts/termsyn7x12b2.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x12b2.psfu
+	/home/yasantha/.fonts/termsyn7x12b2.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x12r.icons.pcf
+	/home/yasantha/.fonts/termsyn7x12r.icons.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x12r.pcf
+	/home/yasantha/.fonts/termsyn7x12r.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x12r.psfu
+	/home/yasantha/.fonts/termsyn7x12r.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x12r2.pcf
+	/home/yasantha/.fonts/termsyn7x12r2.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x12r2.psfu
+	/home/yasantha/.fonts/termsyn7x12r2.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x14b.icons.pcf
+	/home/yasantha/.fonts/termsyn7x14b.icons.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x14b.pcf
+	/home/yasantha/.fonts/termsyn7x14b.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x14b.psfu
+	/home/yasantha/.fonts/termsyn7x14b.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x14b2.pcf
+	/home/yasantha/.fonts/termsyn7x14b2.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x14b2.psfu
+	/home/yasantha/.fonts/termsyn7x14b2.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x14r.icons.pcf
+	/home/yasantha/.fonts/termsyn7x14r.icons.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x14r.pcf
+	/home/yasantha/.fonts/termsyn7x14r.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x14r.psfu
+	/home/yasantha/.fonts/termsyn7x14r.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x14r2.pcf
+	/home/yasantha/.fonts/termsyn7x14r2.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsyn7x14r2.psfu
+	/home/yasantha/.fonts/termsyn7x14r2.psfu
+t/home/yasantha/.local/share/vifm/Trash/000_termsynu6x11b.pcf
+	/home/yasantha/.fonts/termsynu6x11b.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsynu6x11r.pcf
+	/home/yasantha/.fonts/termsynu6x11r.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsynu6x13b.pcf
+	/home/yasantha/.fonts/termsynu6x13b.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsynu6x13r.pcf
+	/home/yasantha/.fonts/termsynu6x13r.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsynu7x12b.pcf
+	/home/yasantha/.fonts/termsynu7x12b.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsynu7x12r.pcf
+	/home/yasantha/.fonts/termsynu7x12r.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsynu7x14b.pcf
+	/home/yasantha/.fonts/termsynu7x14b.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_termsynu7x14r.pcf
+	/home/yasantha/.fonts/termsynu7x14r.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_siji.pcf
+	/home/yasantha/.fonts/siji.pcf
+t/home/yasantha/.local/share/vifm/Trash/000_fontawesome-pro-5.12.0-desktop
+	/home/yasantha/Downloads/Compressed/fontawesome-pro-5.12.0-desktop
+t/home/yasantha/.local/share/vifm/Trash/000_fontawesome-pro-5.12.0-web
+	/home/yasantha/Downloads/Compressed/fontawesome-pro-5.12.0-web
+t/home/yasantha/.local/share/vifm/Trash/000_README.url
+	/home/yasantha/Downloads/Compressed/README.url
+t/home/yasantha/.local/share/vifm/Trash/000_font-awesome-pro-nulled-free-download-v.5.12.0.zip
+	/home/yasantha/Downloads/Compressed/font-awesome-pro-nulled-free-download-v.5.12.0.zip
+t/home/yasantha/.local/share/vifm/Trash/001_siji
+	/home/yasantha/Downloads/Compressed/polytheme_8/siji
+t/home/yasantha/.local/share/vifm/Trash/000_fonts
+	/home/yasantha/Downloads/Compressed/polytheme_8/fonts
+t/home/yasantha/.local/share/vifm/Trash/000_vifmimg
+	/home/yasantha/.config/vifm/scripts/vifmimg
+t/home/yasantha/.local/share/vifm/Trash/000_vifmrun
+	/home/yasantha/.config/vifm/scripts/vifmrun
+t/home/yasantha/.local/share/vifm/Trash/000_vifmimgpdfpage
+	/home/yasantha/.config/vifm/vifmimgpdfpage
+t/home/yasantha/.local/share/vifm/Trash/000_vifmimgpdffile
+	/home/yasantha/.config/vifm/vifmimgpdffile
+t/home/yasantha/.local/share/vifm/Trash/000_vifmimg.sh
+	/home/yasantha/.config/vifm/scripts/vifmimg.sh
+t/home/yasantha/.local/share/vifm/Trash/000_LinuxCommandLineCheatSheet.txt
+	/home/yasantha/Documents/Linux Cheat Sheets/LinuxCommandLineCheatSheet.txt
+t/home/yasantha/.local/share/vifm/Trash/000_vi-cheat-sheet-basic.txt
+	/home/yasantha/Documents/Linux Cheat Sheets/vi-cheat-sheet-basic.txt
+t/home/yasantha/.local/share/vifm/Trash/000_test.jpeg
+	/home/yasantha/Pictures/test.jpeg
+t/home/yasantha/.local/share/vifm/Trash/000_BlueSky.jpeg
+	/home/yasantha/Pictures/BlueSky.jpeg
+t/home/yasantha/.local/share/vifm/Trash/000_polybar-themes-polybar-8.zip
+	/home/yasantha/Downloads/polybar-themes-polybar-8.zip
+t/home/yasantha/.local/share/vifm/Trash/000_polybar-6
+	/home/yasantha/Downloads/Compressed/polybar-6
+t/home/yasantha/.local/share/vifm/Trash/000_pyWalPicture
+	/home/yasantha/pyWalPicture
+t/home/yasantha/.local/share/vifm/Trash/000_newFont
+	/home/yasantha/newFont
+t/home/yasantha/.local/share/vifm/Trash/000_.xsession-errors
+	/home/yasantha/.xsession-errors
+t/home/yasantha/.local/share/vifm/Trash/000_font
+	/home/yasantha/Downloads/Compressed/font
+t/home/yasantha/.local/share/vifm/Trash/000_weather-icons-.zip
+	/home/yasantha/Downloads/Compressed/weather-icons-.zip
+t/home/yasantha/.local/share/vifm/Trash/000_ps-menurc.txt
+	/home/yasantha/Downloads/Documents/ps-menurc.txt
+t/home/yasantha/.local/share/vifm/Trash/000_playerctl-2.1.1_amd64.deb
+	/home/yasantha/Downloads/Programs/playerctl-2.1.1_amd64.deb
+t/home/yasantha/.local/share/vifm/Trash/000_usr
+	/home/yasantha/Documents/usr
+t/home/yasantha/.local/share/vifm/Trash/000_.BUILDINFO
+	/home/yasantha/Documents/.BUILDINFO
+t/home/yasantha/.local/share/vifm/Trash/000_.MTREE
+	/home/yasantha/Documents/.MTREE
+t/home/yasantha/.local/share/vifm/Trash/000_.PKGINFO
+	/home/yasantha/Documents/.PKGINFO
+t/home/yasantha/.local/share/vifm/Trash/000_Listen live - Z100 - WHTZ - Newark, NJ.html
+	/home/yasantha/Documents/Listen live - Z100 - WHTZ - Newark, NJ.html
+t/home/yasantha/.local/share/vifm/Trash/000_sun.html
+	/home/yasantha/Documents/sun.html
+t/home/yasantha/.local/share/vifm/Trash/000_Tech House Radio - DI.FM _ addictive electronic music.pls
+	/home/yasantha/Documents/Tech House Radio - DI.FM _ addictive electronic music.pls
+t/home/yasantha/.local/share/vifm/Trash/000_ttf-font-awesome-5.12.1-1-any.pkg.tar.zst
+	/home/yasantha/Documents/ttf-font-awesome-5.12.1-1-any.pkg.tar.zst
+t/home/yasantha/.local/share/vifm/Trash/000_Tech House Radio - DI.FM _ addictive electronic music_files
+	/home/yasantha/Documents/Tech House Radio - DI.FM _ addictive electronic music_files
+t/home/yasantha/.local/share/vifm/Trash/000_sun_files
+	/home/yasantha/Documents/sun_files
+t/home/yasantha/.local/share/vifm/Trash/000_Listen live - Z100 - WHTZ - Newark, NJ_files
+	/home/yasantha/Documents/Listen live - Z100 - WHTZ - Newark, NJ_files
+t/media/entertainment/.vifm-Trash-1000/000_Radio(2019)
+	/media/entertainment/Movies/Radio(2019)
+t/home/yasantha/.local/share/vifm/Trash/000_asooWZm.png
+	/home/yasantha/Pictures/asooWZm.png
+t/home/yasantha/.local/share/vifm/Trash/000_DragonBall.jpg
+	/home/yasantha/Pictures/DragonBall.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_HotSun.jpeg
+	/home/yasantha/Pictures/HotSun.jpeg
+t/home/yasantha/.local/share/vifm/Trash/000_RedForestLight.jpg
+	/home/yasantha/Pictures/RedForestLight.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_RedSunset.jpg
+	/home/yasantha/Pictures/RedSunset.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_ScienceFiction.jpg
+	/home/yasantha/Pictures/ScienceFiction.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_Synthwave.jpg
+	/home/yasantha/Pictures/Synthwave.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_SpiderverseUpside.jpg
+	/home/yasantha/Pictures/SpiderverseUpside.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_SpiderverseRight.jpg
+	/home/yasantha/Pictures/SpiderverseRight.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_network-start
+	/home/yasantha/scripts/network-start
+t/home/yasantha/.local/share/vifm/Trash/000_Samsung
+	/home/yasantha/Samsung
+t/home/yasantha/.local/share/vifm/Trash/000_BlueSky.jpg
+	/home/yasantha/Pictures/BlueSky.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_FoxArt.jpg
+	/home/yasantha/Pictures/FoxArt.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_GiantTree.jpg
+	/home/yasantha/Pictures/GiantTree.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_GirlWithUmbrella.jpg
+	/home/yasantha/Pictures/GirlWithUmbrella.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_GreenSemiCircle.jpg
+	/home/yasantha/Pictures/GreenSemiCircle.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_MountainAndClouds.jpg
+	/home/yasantha/Pictures/MountainAndClouds.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_PinkAndBrownTrees.jpeg
+	/home/yasantha/Pictures/PinkAndBrownTrees.jpeg
+t/home/yasantha/.local/share/vifm/Trash/000_Planes.jpg
+	/home/yasantha/Pictures/Planes.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_PurpleGarden.jpg
+	/home/yasantha/Pictures/PurpleGarden.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_PurpleTown.jpg
+	/home/yasantha/Pictures/PurpleTown.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_RedForest.jpg
+	/home/yasantha/Pictures/RedForest.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_SpiderverseUpBlue.jpg
+	/home/yasantha/Pictures/SpiderverseUpBlue.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_SportCar.png
+	/home/yasantha/Pictures/SportCar.png
+t/home/yasantha/.local/share/vifm/Trash/000_TroiiGate.jpg
+	/home/yasantha/Pictures/TroiiGate.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_WaterBridge.jpg
+	/home/yasantha/Pictures/WaterBridge.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_PacketTracer_730_amd64.deb
+	/home/yasantha/Downloads/Programs/PacketTracer_730_amd64.deb
+t/home/yasantha/.local/share/vifm/Trash/000_3270-Medium Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/3270-Medium Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_3270-Medium Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/3270-Medium Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_agave regular Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/agave regular Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_agave regular Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/agave regular Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Anonymice Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/Anonymice Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Anonymice Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/Anonymice Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Arimo Bold Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/Arimo Bold Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Arimo Bold Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/Arimo Bold Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Bitstream Vera Sans Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/Bitstream Vera Sans Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Bitstream Vera Sans Mono Bold Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/Bitstream Vera Sans Mono Bold Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Bitstream Vera Sans Mono Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/Bitstream Vera Sans Mono Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Bitstream Vera Sans Mono Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/Bitstream Vera Sans Mono Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Bitstream Vera Sans Mono Oblique Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/Bitstream Vera Sans Mono Oblique Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Bitstream Vera Sans Mono Oblique Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/Bitstream Vera Sans Mono Oblique Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Code New Roman Bold Nerd Font Complete Mono Windows Compatible.otf
+	/home/yasantha/.fonts/Code New Roman Bold Nerd Font Complete Mono Windows Compatible.otf
+t/home/yasantha/.local/share/vifm/Trash/000_Code New Roman Bold Nerd Font Complete Windows Compatible.otf
+	/home/yasantha/.fonts/Code New Roman Bold Nerd Font Complete Windows Compatible.otf
+t/home/yasantha/.local/share/vifm/Trash/000_Code New Roman Italic Nerd Font Complete Mono Windows Compatible.otf
+	/home/yasantha/.fonts/Code New Roman Italic Nerd Font Complete Mono Windows Compatible.otf
+t/home/yasantha/.local/share/vifm/Trash/000_Code New Roman Italic Nerd Font Complete Windows Compatible.otf
+	/home/yasantha/.fonts/Code New Roman Italic Nerd Font Complete Windows Compatible.otf
+t/home/yasantha/.local/share/vifm/Trash/000_Code New Roman Nerd Font Complete Mono Windows Compatible.otf
+	/home/yasantha/.fonts/Code New Roman Nerd Font Complete Mono Windows Compatible.otf
+t/home/yasantha/.local/share/vifm/Trash/000_Code New Roman Nerd Font Complete Windows Compatible.otf
+	/home/yasantha/.fonts/Code New Roman Nerd Font Complete Windows Compatible.otf
+t/home/yasantha/.local/share/vifm/Trash/000_Cousine Bold Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/Cousine Bold Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_Cousine Bold Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/Cousine Bold Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_DejaVu Sans Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/DejaVu Sans Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_DejaVu Sans Mono Bold Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/DejaVu Sans Mono Bold Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_DejaVu Sans Mono Bold Oblique Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/DejaVu Sans Mono Bold Oblique Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_DejaVu Sans Mono Bold Oblique Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/DejaVu Sans Mono Bold Oblique Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_DejaVu Sans Mono Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/DejaVu Sans Mono Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_DejaVu Sans Mono Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/DejaVu Sans Mono Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_DejaVu Sans Mono Oblique Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/DejaVu Sans Mono Oblique Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_DejaVu Sans Mono Oblique Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/DejaVu Sans Mono Oblique Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Bold Italic Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Bold Italic Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Bold Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Bold Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono ExtBd Ita Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono ExtBd Ita Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono ExtBd Ita Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono ExtBd Ita Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Extra Bold Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Extra Bold Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Extra Bold Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Extra Bold Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono ExtraBold ExBd I Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono ExtraBold ExBd I Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono ExtraBold ExBd I Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono ExtraBold ExBd I Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono ExtraBold ExtBd Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono ExtraBold ExtBd Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono ExtraBold ExtBd Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono ExtraBold ExtBd Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Italic Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Italic Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Medium Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Medium Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Medium Italic Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Medium Italic Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Medium Med Ita Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Medium Med Ita Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Medium Med Ita Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Medium Med Ita Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Medium Medium Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Medium Medium Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Medium Medium Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Medium Medium Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Medium Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Medium Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Medium Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Medium Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Regular Nerd Font Complete Mono Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Regular Nerd Font Complete Mono Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_JetBrains Mono Regular Nerd Font Complete Windows Compatible.ttf
+	/home/yasantha/.fonts/JetBrains Mono Regular Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Black Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Black Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Black Italic Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Black Italic Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Black Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Black Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Black Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Black Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Bold Italic Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Bold Italic Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Bold Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Bold Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Bold Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Bold Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro ExtraLight Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro ExtraLight Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro ExtraLight Italic Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro ExtraLight Italic Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro ExtraLight Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro ExtraLight Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro ExtraLight Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro ExtraLight Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Italic Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Italic Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Light Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Light Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Light Italic Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Light Italic Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Light Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Light Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Light Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Light Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Medium Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Medium Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Medium Italic Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Medium Italic Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Medium Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Medium Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Medium Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Medium Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Semibold Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Semibold Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Semibold Italic Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Semibold Italic Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Semibold Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Semibold Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Sauce Code Pro Semibold Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/sourcecodepro/Sauce Code Pro Semibold Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Hack Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/hack/Hack Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Hack Bold Italic Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/hack/Hack Bold Italic Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Hack Bold Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/hack/Hack Bold Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Hack Bold Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/hack/Hack Bold Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Hack Italic Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/hack/Hack Italic Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Hack Italic Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/hack/Hack Italic Nerd Font Complete Windows Compatible.ttf
+t/.vifm-Trash-0/000_Hack Regular Nerd Font Complete Mono Windows Compatible.ttf
+	/usr/share/fonts/truetype/hack/Hack Regular Nerd Font Complete Mono Windows Compatible.ttf
+t/.vifm-Trash-0/000_Hack Regular Nerd Font Complete Windows Compatible.ttf
+	/usr/share/fonts/truetype/hack/Hack Regular Nerd Font Complete Windows Compatible.ttf
+t/home/yasantha/.local/share/vifm/Trash/000_anohrhr.wbpr72_300mbfilms.com.rar
+	/media/entertainment/Movies/anohrhr.wbpr72_300mbfilms.com.rar
+t/home/yasantha/.local/share/vifm/Trash/000_complete
+	/home/yasantha/Downloads/Compressed/complete
+t/home/yasantha/.local/share/vifm/Trash/000_nerd-fonts-patched-fonts-IBMPlexMono-Mono.zip
+	/home/yasantha/Downloads/Compressed/nerd-fonts-patched-fonts-IBMPlexMono-Mono.zip
+t/home/yasantha/.local/share/vifm/Trash/000_BlackUniverse.jpg
+	/home/yasantha/Pictures/BlackUniverse.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_BlueAndBlackCircuit.jpg
+	/home/yasantha/Pictures/BlueAndBlackCircuit.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_BluishForest.jpg
+	/home/yasantha/Pictures/BluishForest.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_EatSleepCode.jpg
+	/home/yasantha/Pictures/EatSleepCode.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_ElectronicDevice.jpg
+	/home/yasantha/Pictures/ElectronicDevice.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_Firewatch.png
+	/home/yasantha/Pictures/Firewatch.png
+t/home/yasantha/.local/share/vifm/Trash/000_Geek.jpg
+	/home/yasantha/Pictures/Geek.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_GreenAbstract.jpg
+	/home/yasantha/Pictures/GreenAbstract.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_Horizon.jpg
+	/home/yasantha/Pictures/Horizon.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_HotAirBaloons.jpg
+	/home/yasantha/Pictures/HotAirBaloons.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_LoneFox.jpg
+	/home/yasantha/Pictures/LoneFox.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_NatureBeachTree.jpg
+	/home/yasantha/Pictures/NatureBeachTree.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_RedPlane.png
+	/home/yasantha/Pictures/RedPlane.png
+t/home/yasantha/.local/share/vifm/Trash/000_RedTrain.jpg
+	/home/yasantha/Pictures/RedTrain.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_RiceTerrace.jpg
+	/home/yasantha/Pictures/RiceTerrace.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_RopeNatureWater.jpg
+	/home/yasantha/Pictures/RopeNatureWater.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_SeaWave.jpg
+	/home/yasantha/Pictures/SeaWave.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_Sunset.jpg
+	/home/yasantha/Pictures/Sunset.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_TechMan.jpg
+	/home/yasantha/Pictures/TechMan.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_VideoGamesTypo.jpg
+	/home/yasantha/Pictures/VideoGamesTypo.jpg
+t/home/yasantha/.local/share/vifm/Trash/000_onedark.vim
+	/home/yasantha/.config/nvim/colors/onedark.vim
+t/home/yasantha/.local/share/vifm/Trash/000_colors
+	/home/yasantha/.local/share/nvim/colors
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].0
+]F
+s0
