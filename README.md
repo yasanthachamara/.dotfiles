@@ -17,3 +17,7 @@
 <p align="center">
   <img width="50%" src=".assets/Ephemeral.png" />
 </p>
+
+## Zsh Setup:
+
++ Using [powerlevel10k](https://github.com/romkatv/powerlevel10k) with customized pure theme
