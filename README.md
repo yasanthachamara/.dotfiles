@@ -15,5 +15,5 @@
 + Using the [Ephemeral](https://github.com/elenapan/dotfiles/wiki/Gallery) theme
 
 <p align="center">
-  <img width="50%" src="https://i.redd.it/ddrd1bbxzpd31.png" />
+  <img width="50%" src=".assets/Ephemeral.png" />
 </p>
