@@ -15,33 +15,24 @@ call plug#begin(stdpath('data').'/plugged')
     Plug 'tpope/vim-fugitive'						" Fugitive - Git support
     Plug 'ryanoasis/vim-devicons'					" Devicons - Used in nerd tree syntax highlight plugin
     Plug 'tiagofumo/vim-nerdtree-syntax-highlight'	" Nerd tree syntax highlight - Display common file extension icons with colors. Requires Devicons
-    Plug 'mxw/vim-jsx'								" JSX - Syntax highlighting and indenting for JSX
     Plug 'mhinz/vim-startify'						" Startify - customized vim home page
     Plug 'MaxMEllon/vim-jsx-pretty'					" JSX-pretty - Syntax highlighting and indenting for JSX
 	Plug 'ap/vim-css-color'							" Css-color - Highlight css colors
     Plug 'prettier/vim-prettier', { 'do': 'yarn add', 'for': ['javascript', 'typescript', 'css', 'less', 'scss', 'json', 'graphql', 'markdown', 'vue', 'yaml', 'html'] }
     Plug 'pangloss/vim-javascript'					" Pangloss - Javascript syntax highlighting and indenting
     Plug 'rust-lang/rust.vim'						" Rust -  Rust file detection, syntax highlighting, formatting, Syntastic integration, and more.
+	Plug 'sheerun/vim-polyglot'						" Various language syntaxing support
 call plug#end()
 
 " Set python providers for python support
-let g:python_host_prog  = '/usr/bin/python2.7'
-let g:python3_host_prog = '/usr/bin/python3.6'
+let g:python3_host_prog = '/usr/bin/python3.8'
 
 " Set italic comments for onedark
-let g:onedark_terminal_italics = 1
-
-" Syntastic config
-let g:syntastic_js_checkers = ['syntastic-checkers-javascript']
-let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 1
-let g:syntastic_check_on_open = 1
-let g:syntastic_check_on_wq = 0
+" let g:onedark_terminal_italics = 1
 
 " Enable terminal true colors
 set termguicolors
 set background=dark
-colorscheme gruvbox
 
 " Tab -> 4 spaces
 set tabstop=4
@@ -51,98 +42,118 @@ set cursorline
 set number
 set noerrorbells
 set title
-" set visualbell
 
 " Miscellaneous Options "
 set autoread
 set confirm
 set undolevels=999
+set noshowmode
+
+"Case insensitive searching
+set ignorecase
+
+"Will automatically switch to case sensitive if you use any capitals
+set smartcase
+
+" Clear search highlighting with Escape key
+nnoremap <silent><esc> :noh<return><esc>
+
+set nocompatible
+filetype plugin indent on
+
+" Highlight matching pairs of brackets. Use the '%' character to jump between them.
+set matchpairs+=<:>
 
 " Enable mouse. Hold Shift while selecting to copy(Shift + Ctrl + c) to clipboard
 set mouse=a
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+set nocursorline
+
 " Rainbow config
 let g:rainbow_active = 1
 
-""""""""""""""" Lightline config - Like powerline"""""""""""""""
-" let g:lightline = {
-"		\ 'colorscheme': 'onedark',
-"		\ 'component': {
-"		\ 	'lineinfo': ' %3l:%-2v',
-"		\ },
-"		\ 'component_function': {
-"		\   'readonly': 'LightlineReadonly',
-"		\   'fugitive': 'LightlineFugitive'
-"		\ },
-"		\ 'separator': { 'left': '', 'right': '' },
-"		\ 'subseparator': { 'left': '', 'right': '' }
-"		\ }
-
-"function! LightlineReadonly()
-"	return &readonly ? '' : ''
-"endfunction
-"function! LightlineFugitive()
-"	if exists('*fugitive#head')
-"		let branch = fugitive#head()
-"		return branch !=# '' ? ''.branch : ''
-"	endif
-"	return ''
-"endfunction
-
-""""""""""""""" Lightline config - Modern""""""""""""""""
+" Lightline config
 let g:lightline = {
-	\ 'colorscheme': 'gruvbox',
-	\ 'component': {
-	\   'lineinfo': '⭡ %3l:%-2v',
-	\ },
-	\ 'component_function': {
-	\   'readonly': 'LightlineReadonly',
-	\   'fugitive': 'LightlineFugitive'
-	\ },
-	\ 'separator': { 'left': '⮀', 'right': '⮂' },
-	\ 'subseparator': { 'left': '⮁', 'right': '⮃' },
-	\ 'active': {
-	\   'right': [ [ 'syntastic', 'lineinfo' ],
-	\              [ 'percent' ],
-	\              [ 'fileformat', 'fileencoding', 'filetype' ] ]
-	\ },
-	\ 'component_expand': {
-	\   'syntastic': 'SyntasticStatuslineFlag',
-	\ },
-	\ 'component_type': {
-	\   'syntastic': 'error',
-	\ }
-	\ }
-" Syntastic can call a post-check hook, let's update lightline there
-" For more information: :help syntastic-loclist-callback
-function! SyntasticCheckHook(errors)
-  call lightline#update()
-endfunction
+    \ 'colorscheme': 'onedark',
+    \ }
 
-function! LightlineReadonly()
-	return &readonly ? '⭤' : ''
-endfunction
-function! LightlineFugitive()
-	if exists('*fugitive#head')
-		let branch = fugitive#head()
-		return branch !=# '' ? '⭠ '.branch : ''
-	endif
-	return ''
-endfunction
+let g:lightline.active = {
+    \ 'left': [ [ 'mode', 'paste', 'sep1' ],
+    \           [ 'readonly', 'filename', 'modified' ],
+    \           [ ] ],
+    \ 'right': [ [ 'lineinfo' ],
+    \            [ 'percent' ],
+    \            [ 'filetype' ] ]
+    \ }
 
-" Ale config
-"let b:ale_linters = {'javascript': ['eslint'],'jsx': ['eslint'],'cpp':['ccls']}
-"let g:ale_fixers = {
-"		\ '*': ['remove_trailing_lines','trim_whitespace'],
-"		\ 'javascript':['eslint','prettier'],
-"		\ 'jsx':['eslint'],
-"		\ 'rust':['rustfmt'],
-"		\ 'html':['prettier'],
-"		\ 'css':['prettier'],
-"		\ 'cpp':['ccls']
-"		\ }
-"autocmd BufWrite *.js ALEFix 
-"autocmd BufWrite *.rs ALEFix
+let g:lightline.inactive = {
+    \ 'left': [ [ 'mode', 'paste', 'sep1' ],
+    \           [ 'readonly', 'filename', 'modified' ] ],
+    \ 'right': [ [ 'lineinfo' ],
+    \            [ 'percent' ],
+    \            [ 'filetype' ] ]
+    \ }
+
+let g:lightline.tabline = {
+    \ 'left': [ [ 'tabs' ] ],
+    \ 'right': [ ] }
+
+let g:lightline.tab = {
+    \ 'active': [ 'tabnum', 'filename', 'modified' ],
+    \ 'inactive': [ 'tabnum', 'filename', 'modified' ] }
+
+let g:lightline.component = {
+    \ 'mode': '%{lightline#mode()}',
+    \ 'absolutepath': '%F',
+    \ 'relativepath': '%f',
+    \ 'filename': '%t',
+    \ 'modified': '%M',
+    \ 'bufnum': '%n',
+    \ 'paste': '%{&paste?"PASTE":""}',
+    \ 'readonly': '%R',
+    \ 'charvalue': '%b',
+    \ 'charvaluehex': '%B',
+    \ 'fileencoding': '%{&fenc!=#""?&fenc:&enc}',
+    \ 'fileformat': '%{&ff}',
+    \ 'filetype': '%{&ft!=#""?&ft:"no ft"}',
+    \ 'percent': '%3p%%',
+    \ 'percentwin': '%P',
+    \ 'spell': '%{&spell?&spelllang:""}',
+    \ 'lineinfo': '%3l:%-2v',
+    \ 'line': '%l',
+    \ 'column': '%c',
+    \ 'close': '%999X X ',
+    \ 'winnr': '%{winnr()}',
+    \ 'sep1': ''
+    \}
+
+let g:lightline.mode_map = {
+    \ 'n' : 'N',
+    \ 'i' : 'I',
+    \ 'R' : 'R',
+    \ 'v' : 'V',
+    \ 'V' : 'L',
+    \ "\<C-v>": 'B',
+    \ 'c' : 'C',
+    \ 's' : 'S',
+    \ 'S' : 'S-LINE',
+    \ "\<C-s>": 'S-BLOCK',
+    \ 't': 'T',
+    \ }
+
+let g:lightline.separator = {
+    \   'left': '', 'right': ''
+    \}
+let g:lightline.subseparator = {
+    \   'left': '', 'right': '' 
+    \}
+
+let g:lightline.tabline_separator = g:lightline.separator
+let g:lightline.tabline_subseparator = g:lightline.subseparator
+
+let g:lightline.enable = {
+    \ 'statusline': 1,
+    \ 'tabline': 1
+    \ }
 
 " Nerd tree config
 map <C-b> :NERDTreeToggle<CR>
@@ -153,11 +164,15 @@ let g:NERDTreeFileExtensionHighlightFullName = 1
 let g:NERDTreeExactMatchHighlightFullName = 1
 let g:NERDTreePatternMatchHighlightFullName = 1
 
-if (empty($TMUX))
-  if (has("nvim"))
-    let $NVIM_TUI_ENABLE_TRUE_COLOR=1
-  endif
- if (has("termguicolors"))
-    set termguicolors
-  endif
+set encoding=utf8
+scriptencoding utf-8
+
+" Colorscheme
+colorscheme onedark
+set fillchars=vert::
+highlight Normal guibg=none guifg=none
+
+" Allow color schemes to do bright colors without forcing bold.
+if &t_Co == 8 && $TERM !~# '^linux\|^Eterm'
+  set t_Co=16
 endif
