@@ -2,11 +2,12 @@
 
 + **WM**: [AwesomeWM](https://github.com/awesomeWM/awesome/)
 + **OS**: Arch Linux
-+ **Shell**: [zsh](https://wiki.archlinux.org/index.php/Zsh)
-+ **Terminal**: [kitty](https://github.com/kovidgoyal/kitty/)
++ **Shell**: [Zsh](https://wiki.archlinux.org/index.php/Zsh)
++ **Terminal**: [Kitty](https://github.com/kovidgoyal/kitty/)
 + **Editor**: [Neovim](https://github.com/neovim/neovim/)
 + **File Manager**: [Ranger](https://wiki.archlinux.org/index.php/Ranger)
-+ **Launcher**: [rofi](https://github.com/davatorium/rofi/)
++ **Launcher**: [Rofi](https://github.com/davatorium/rofi/)
++ **Compositor**: [Picom](https://github.com/yshui/picom)
 + **Browser**: Firefox
 
 ## Awesome Setup:
