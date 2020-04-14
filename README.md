@@ -26,3 +26,24 @@
 <p align="center">
   <img width="50%" src=".assets/Zsh.png" />
 </p>
+
+## Cli-tools Setup
+
+Referred to [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) to find out some cool stuff
+
+### Directory Listing
+
+- [exa](https://github.com/ogham/exa) - Improved version of `ls`
+
+### Files
+
+- [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
+
+### Search
+
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern
+- [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`
+
+## Calculator
+- [eva](https://github.com/NerdyPepper/eva) - A simple calculator REPL, similar to bc(1), with syntax highlighting and persistent history
