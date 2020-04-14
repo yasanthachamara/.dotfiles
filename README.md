@@ -12,7 +12,7 @@
 
 ## Awesome Setup:
 
-+ Shamefully copied everything from great [elenapan](https://github.com/elenapan/dotfiles)
++ Shamelessly copied everything from great [elenapan](https://github.com/elenapan/dotfiles)
 + Using the [Ephemeral](https://github.com/elenapan/dotfiles/wiki/Gallery) theme
 
 <p align="center">
