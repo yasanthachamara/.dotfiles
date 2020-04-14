@@ -45,5 +45,5 @@ Referred to [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) to
 - [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`
 
-## Calculator
+### Calculator
 - [eva](https://github.com/NerdyPepper/eva) - A simple calculator REPL, similar to bc(1), with syntax highlighting and persistent history
