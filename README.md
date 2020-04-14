@@ -21,3 +21,7 @@
 ## Zsh Setup:
 
 + Using [powerlevel10k](https://github.com/romkatv/powerlevel10k) with customized pure theme
+
+<p align="center">
+  <img width="50%" src=".assets/Zsh.png" />
+</p>
